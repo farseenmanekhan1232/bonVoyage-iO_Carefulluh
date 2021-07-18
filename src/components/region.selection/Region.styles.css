@@ -1,0 +1,13 @@
+.parent{
+    padding: 50px;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+}
+
+select{
+    font-size: large;
+}
+.pad{
+    padding:10px
+}

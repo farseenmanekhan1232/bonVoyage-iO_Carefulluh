@@ -1,0 +1,33 @@
+.Name{
+    margin:5px;
+    display: flex;
+    justify-content: space-between;
+}
+.Name-section{
+    background-color: rgba(0, 0, 0, 0.192);
+    width:500px;
+    min-width: 400px;
+    margin: 10px;
+    padding:10px;
+    border:1px solid black;
+}
+
+.details{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.title{
+    margin-right: 10px;
+}
+
+.vaccine{
+    width:500px;
+}
+.vaccine-detail{
+    width:400px;
+}
+.neighbour{
+    text-align: center;
+}
