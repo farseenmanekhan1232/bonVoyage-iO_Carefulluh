@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bonVoyage-iO_Carefulluh/static/css/main.0728c483.chunk.css",
+    "main.js": "/bonVoyage-iO_Carefulluh/static/js/main.50b2884f.chunk.js",
+    "main.js.map": "/bonVoyage-iO_Carefulluh/static/js/main.50b2884f.chunk.js.map",
+    "runtime-main.js": "/bonVoyage-iO_Carefulluh/static/js/runtime-main.e0ddc8a0.js",
+    "runtime-main.js.map": "/bonVoyage-iO_Carefulluh/static/js/runtime-main.e0ddc8a0.js.map",
+    "static/js/2.54278fa0.chunk.js": "/bonVoyage-iO_Carefulluh/static/js/2.54278fa0.chunk.js",
+    "static/js/2.54278fa0.chunk.js.map": "/bonVoyage-iO_Carefulluh/static/js/2.54278fa0.chunk.js.map",
+    "static/js/3.a458c908.chunk.js": "/bonVoyage-iO_Carefulluh/static/js/3.a458c908.chunk.js",
+    "static/js/3.a458c908.chunk.js.map": "/bonVoyage-iO_Carefulluh/static/js/3.a458c908.chunk.js.map",
+    "index.html": "/bonVoyage-iO_Carefulluh/index.html",
+    "static/css/main.0728c483.chunk.css.map": "/bonVoyage-iO_Carefulluh/static/css/main.0728c483.chunk.css.map",
+    "static/js/2.54278fa0.chunk.js.LICENSE.txt": "/bonVoyage-iO_Carefulluh/static/js/2.54278fa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0ddc8a0.js",
+    "static/js/2.54278fa0.chunk.js",
+    "static/css/main.0728c483.chunk.css",
+    "static/js/main.50b2884f.chunk.js"
+  ]
+}
