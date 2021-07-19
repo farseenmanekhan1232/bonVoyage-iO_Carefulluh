@@ -3,11 +3,11 @@
     margin: 30px;
     display: flex;
     align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 select{
     font-size: large;
 }
-.pad{
-    padding:10px
-}
+
