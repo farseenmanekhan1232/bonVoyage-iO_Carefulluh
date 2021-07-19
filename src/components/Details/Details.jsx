@@ -4,9 +4,7 @@ import './Details.styles.css';
 var key=  0;
 class Details extends React.Component {
 
-    componentDidUpdate(){
-        console.log(this.props.details)
-    }
+ 
     render(){
         if(this.props.details){
             return(
