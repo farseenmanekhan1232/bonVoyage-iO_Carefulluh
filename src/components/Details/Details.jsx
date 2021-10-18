@@ -76,7 +76,7 @@ class Details extends React.Component {
                         }
                     </div>
                     <div className='Name-section vaccine'>
-                        <h1>Mandatory Vaccinacations</h1>
+                        <h1>Vaccinacations</h1>
                         {       
                                 this.props.details.vaccinations.map((item)=>{
                                     
